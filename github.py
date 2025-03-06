@@ -3,6 +3,7 @@ print(a)
 
 
 # Multiplication table
+
 a = int(input("Enter the integer"))
 
 for i in range(1,11):
