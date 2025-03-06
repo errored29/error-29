@@ -4,7 +4,7 @@ print(a)
 
 # Multiplication table
 
-a = int(input("Enter the integer"))
+a = int(input("Enter the positve integer"))
 
 for i in range(1,11):
     result = a*i
